@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// FIRST ADD TO EMPTY THEN ADD AT BEGINNING 
+
 struct Node
 {
     int data;
