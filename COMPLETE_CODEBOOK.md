@@ -1,4 +1,4 @@
-# CSE207 Midterm: Complete C Codebook
+# Data Structures C Codebook
 
 **Coverage:** The 5 uploaded lecture decks on time complexity/list ADT, singly/doubly linked lists, stacks, queues, and iterative vs recursive solutions.
 
